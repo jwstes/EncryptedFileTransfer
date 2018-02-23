@@ -9,3 +9,5 @@ File transfer with end to end encryption
 You could verify if it's a virus by sending the checksum to virustotal.com automatically... ideas ideas
 ...
 - Uses TCP
+
+![alt text](https://i.imgur.com/lSE5yIA.png)
