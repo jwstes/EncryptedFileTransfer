@@ -1,0 +1,32 @@
+C:\Users\Otter\Desktop\EasyFileTransfer-master\LocalFileTransfer\bin\Debug\LocalFileTransfer.exe
+C:\Users\Otter\Desktop\EasyFileTransfer-master\LocalFileTransfer\bin\Debug\LocalFileTransfer.pdb
+C:\Users\Otter\Desktop\EasyFileTransfer-master\LocalFileTransfer\obj\Debug\LocalFileTransfer.Form1.resources
+C:\Users\Otter\Desktop\EasyFileTransfer-master\LocalFileTransfer\obj\Debug\LocalFileTransfer.Properties.Resources.resources
+C:\Users\Otter\Desktop\EasyFileTransfer-master\LocalFileTransfer\obj\Debug\LocalFileTransfer.csproj.GenerateResource.Cache
+C:\Users\Otter\Desktop\EasyFileTransfer-master\LocalFileTransfer\obj\Debug\LocalFileTransfer.csproj.CoreCompileInputs.cache
+C:\Users\Otter\Desktop\EasyFileTransfer-master\LocalFileTransfer\obj\Debug\LocalFileTransfer.exe
+C:\Users\Otter\Desktop\EasyFileTransfer-master\LocalFileTransfer\obj\Debug\LocalFileTransfer.pdb
+C:\Users\Otter\Desktop\EasyFileTransfer-master - Copy\LocalFileTransfer\bin\Debug\LocalFileTransfer.exe.config
+C:\Users\Otter\Desktop\EasyFileTransfer-master - Copy\LocalFileTransfer\bin\Debug\LocalFileTransfer.exe
+C:\Users\Otter\Desktop\EasyFileTransfer-master - Copy\LocalFileTransfer\bin\Debug\LocalFileTransfer.pdb
+C:\Users\Otter\Desktop\EasyFileTransfer-master - Copy\LocalFileTransfer\obj\Debug\LocalFileTransfer.csprojResolveAssemblyReference.cache
+C:\Users\Otter\Desktop\EasyFileTransfer-master - Copy\LocalFileTransfer\obj\Debug\LocalFileTransfer.Form1.resources
+C:\Users\Otter\Desktop\EasyFileTransfer-master - Copy\LocalFileTransfer\obj\Debug\LocalFileTransfer.Properties.Resources.resources
+C:\Users\Otter\Desktop\EasyFileTransfer-master - Copy\LocalFileTransfer\obj\Debug\LocalFileTransfer.csproj.GenerateResource.Cache
+C:\Users\Otter\Desktop\EasyFileTransfer-master - Copy\LocalFileTransfer\obj\Debug\LocalFileTransfer.csproj.CoreCompileInputs.cache
+C:\Users\Otter\Desktop\EasyFileTransfer-master - Copy\LocalFileTransfer\obj\Debug\LocalFileTransfer.exe
+C:\Users\Otter\Desktop\EasyFileTransfer-master - Copy\LocalFileTransfer\obj\Debug\LocalFileTransfer.pdb
+C:\Users\Otter\Desktop\EasyFileTransfer-master - Copy\LocalFileTransfer\bin\Debug\MetroFramework.dll
+C:\Users\Otter\Desktop\EasyFileTransfer-master - Copy\LocalFileTransfer\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Otter\Desktop\Server\LocalFileTransfer\bin\Debug\MetroFramework.dll
+C:\Users\Otter\Desktop\Server\LocalFileTransfer\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Otter\Desktop\Server\LocalFileTransfer\obj\Debug\LocalFileTransfer.Form1.resources
+C:\Users\Otter\Desktop\Server\LocalFileTransfer\obj\Debug\LocalFileTransfer.csproj.GenerateResource.Cache
+C:\Users\Otter\Desktop\Server\LocalFileTransfer\obj\Debug\LocalFileTransfer.csproj.CoreCompileInputs.cache
+C:\Users\Otter\Desktop\Server\LocalFileTransfer\bin\Debug\EncryptedFileTransfer.exe.config
+C:\Users\Otter\Desktop\Server\LocalFileTransfer\bin\Debug\EncryptedFileTransfer.exe
+C:\Users\Otter\Desktop\Server\LocalFileTransfer\bin\Debug\EncryptedFileTransfer.pdb
+C:\Users\Otter\Desktop\Server\LocalFileTransfer\obj\Debug\EncryptedFileTransfer.Properties.Resources.resources
+C:\Users\Otter\Desktop\Server\LocalFileTransfer\obj\Debug\EncryptedFileTransfer.exe
+C:\Users\Otter\Desktop\Server\LocalFileTransfer\obj\Debug\EncryptedFileTransfer.pdb
+C:\Users\Otter\Desktop\Server\LocalFileTransfer\obj\Debug\LocalFileTransfer.csprojResolveAssemblyReference.cache
